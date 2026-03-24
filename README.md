@@ -37,11 +37,11 @@ https://github.com/Challasaiteja576/Student-Performance-analysis/blob/main/dashb
 
 - Created interactive dashboard with:
   
-  ✔ KPI Card (Total Average Score = 68K)
-  ✔ Bar Chart – Average Score by Gender
-  ✔ Bar Chart – Average Score by Parental Education
-  ✔ Pie Chart – Average Score by Lunch Type
-  ✔ Slicers – Gender & Parental Education
+   KPI Card (Total Average Score = 68K)
+   Bar Chart – Average Score by Gender
+   Bar Chart – Average Score by Parental Education
+   Pie Chart – Average Score by Lunch Type
+   Slicers – Gender & Parental Education
 
 📈 Key Insights
 
