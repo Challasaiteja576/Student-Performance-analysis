@@ -7,6 +7,7 @@ This project focuses on analyzing student performance using Python (Pandas) for 
 The dashboard provides insights into how factors like gender, parental education, and lunch type influence student scores.
 
 📊 Dashboard Preview
+https://github.com/Challasaiteja576/Student-Performance-analysis/blob/main/dashboard.png
 
 🎯 Objectives
 
